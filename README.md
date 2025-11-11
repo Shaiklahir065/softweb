@@ -251,7 +251,8 @@ menu.html
 </html>
 ```
 ##style.css
-`style.css
+```
+style.css
 
 /* ====== General Styles ====== */
 body {
